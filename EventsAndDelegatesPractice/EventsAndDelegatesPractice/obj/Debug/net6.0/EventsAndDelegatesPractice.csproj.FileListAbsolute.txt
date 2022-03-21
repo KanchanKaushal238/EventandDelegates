@@ -1,0 +1,15 @@
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\bin\Debug\net6.0\EventsAndDelegatesPractice.exe
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\bin\Debug\net6.0\EventsAndDelegatesPractice.deps.json
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\bin\Debug\net6.0\EventsAndDelegatesPractice.runtimeconfig.json
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\bin\Debug\net6.0\EventsAndDelegatesPractice.dll
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\bin\Debug\net6.0\EventsAndDelegatesPractice.pdb
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.csproj.AssemblyReference.cache
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.AssemblyInfoInputs.cache
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.AssemblyInfo.cs
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.csproj.CoreCompileInputs.cache
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.dll
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\refint\EventsAndDelegatesPractice.dll
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.pdb
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\EventsAndDelegatesPractice.genruntimeconfig.cache
+D:\TrantorAsp.netPractice\EventsAndDelegatesPractice\EventsAndDelegatesPractice\obj\Debug\net6.0\ref\EventsAndDelegatesPractice.dll
